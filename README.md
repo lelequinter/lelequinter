@@ -1,4 +1,5 @@
-<!-- <img src="" alt="GitHub Banner" width="100%"> -->
+<img src="banner.png" alt="GitHub Banner" width="100%">
+
 <h1>Hi 👋, I'm Leyder Quintero</h1>
 <p>A passionate frontend/fullstack developer from Colombia, specialized in Angular and Node.</p>
 
